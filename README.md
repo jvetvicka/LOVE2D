@@ -1,2 +1,2 @@
 # Pong
-My Games created in LOVE2D and LUA
+First game Pong, i use tutorial https://www.youtube.com/watch?v=qA267wyXHeU 
